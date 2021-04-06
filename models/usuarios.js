@@ -1,7 +1,8 @@
  
  const usuarios = {
      listarUsuarios: ()=> {
-         return ['ana','gesiane', 'luiz','mateus'];
+         return ['ana', 'gesiane', 'luiz', 'mateus'];
      }
  }
- module.exports = usuarios
+ module.exports = usuarios;
+ 
